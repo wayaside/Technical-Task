@@ -443,7 +443,8 @@ body {
     white-space: nowrap;
 }
 
-.slider-text-content h1 {
+.slider-text-content h1,
+.slider-text-content h2 {
     color: #6CB71D;
     font-family: inherit;
     font-size: 4rem;
